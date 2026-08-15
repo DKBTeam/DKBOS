@@ -1,42 +1,40 @@
-DKBOS README
+DKBOS Releases
 
-Здесь находятся основные материалы и компоненты, связанные с релизами DKBOS.
+Здесь находятся релизы, документация и основные материалы проекта DKBOS.
 
-📦 Latest Release
+🚀 Latest Release
 
 DKBOS v2.0.7 Hybrid
 
-Текущий релиз DKBOS с поддержкой BIOS и UEFI, DKBFS v4, GUI, сетевого стека, Explorer, Shell, DKB Studio и других компонентов.
+Последняя версия DKBOS с поддержкой BIOS/UEFI и DKBFS v4.
 
-- "⬇️ Скачать DKBOS v2.0.7 Hybrid" (#)
-- "📖 Документация" (#)
-- "🛠️ Руководство разработчика" (#)
-- "💾 DKBFS v4 Documentation" (#)
-- "🌐 Networking Documentation" (#)
-- "🖥️ Kernel Documentation" (#)
-- "🎨 GUI Documentation" (#)
-- "📦 DKB Package System" (#)
-- "🧰 DKB Studio Documentation" (#)
-- "🛒 DKB Store Documentation" (#)
+- "📥 Скачать DKBOS" (https://github.com/DKBTeam/DKBOS/releases)
+- "📖 Документация" (https://github.com/DKBTeam/DKBOS/wiki)
+- "📝 Changelog" (https://github.com/DKBTeam/DKBOS/releases)
+- "🐛 Issues" (https://github.com/DKBTeam/DKBOS/issues)
 
 📚 Documentation
 
-Core
-
-- "Kernel" (#)
-- "Bootloader" (#)
-- "Memory Management" (#)
-- "Interrupts & Hardware" (#)
+- "Kernel Documentation" (#)
+- "Bootloader Documentation" (#)
+- "DKBFS v4 Documentation" (#)
+- "Networking Documentation" (#)
+- "GUI Documentation" (#)
+- "Explorer Documentation" (#)
+- "Shell Documentation" (#)
 - "System Calls" (#)
+- "Hardware Support" (#)
 
-Filesystem
+🧰 Development
 
-- "DKBFS v4" (#)
-- "File Format" (#)
-- "Filesystem API" (#)
-- "Filesystem Tools" (#)
+- "DKB Studio" (#)
+- "DKB SDK" (#)
+- "DKB API" (#)
+- "DKB Application Development" (#)
+- "".dkb" Application Format" (#)
+- "".dpk" Package Format" (#)
 
-Networking
+🌐 Network
 
 - "Network Stack" (#)
 - "Ethernet" (#)
@@ -48,48 +46,29 @@ Networking
 - "DNS" (#)
 - "HTTP" (#)
 
-User Interface
+💾 Filesystem
 
-- "GUI" (#)
-- "Window Manager" (#)
-- "Explorer" (#)
-- "Shell" (#)
+- "DKBFS v4" (#)
+- "DKBFS Specification" (#)
+- "Filesystem API" (#)
+- "Filesystem Tools" (#)
 
-Development
+📦 Releases
 
-- "DKB Studio" (#)
-- "DKB SDK" (#)
-- "DKB API" (#)
-- "".dkb" Applications" (#)
-- "".dpk" Packages" (#)
+- "DKBOS v2.0.7 Hybrid" (https://github.com/DKBTeam/DKBOS/releases)
+- "DKBOS v2.0.5 Hybrid" (https://github.com/DKBTeam/DKBOS/releases)
+- "DKBOS v2.0" (https://github.com/DKBTeam/DKBOS/releases)
+- "DKBOS v1.9" (https://github.com/DKBTeam/DKBOS/releases)
+- "DKBOS v1.8" (https://github.com/DKBTeam/DKBOS/releases)
+- "DKBOS v1.7 Hybrid" (https://github.com/DKBTeam/DKBOS/releases)
 
-📝 Changelogs
+🔗 Links
 
-- "v2.0.7 Hybrid" (#)
-- "v2.0.5 Hybrid" (#)
-- "v2.0" (#)
-- "v1.9" (#)
-- "v1.8" (#)
-- "v1.7 Hybrid" (#)
-- "Older Releases" (#)
-
-🧪 Experimental
-
-Некоторые компоненты DKBOS находятся в стадии разработки и могут изменяться между версиями.
-
-- "Experimental Features" (#)
-- "Known Issues" (#)
-- "Compatibility" (#)
-- "Roadmap" (#)
-
-🔗 Project Resources
-
-- "🌐 Official Website" (#)
-- "💬 Community" (#)
-- "🐛 Issues" (#)
-- "💡 Discussions" (#)
-- "📖 Wiki" (#)
+- "🌐 Official Website" (https://fragrant-truth-105a.rgluhov57.workers.dev/)
+- "💻 GitHub Repository" (https://github.com/DKBTeam/DKBOS)
+- "📦 GitHub Releases" (https://github.com/DKBTeam/DKBOS/releases)
+- "🐛 Report an Issue" (https://github.com/DKBTeam/DKBOS/issues)
 
 ---
 
-DKBOS — Experimental operating system built from scratch.
+DKBOS — Built from scratch.
